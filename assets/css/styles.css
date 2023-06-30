@@ -1,0 +1,38 @@
+/*  Content */
+
+hr {
+  border: 2px solid grey;
+}
+
+.h-content * {
+  margin: 10px auto;
+  display: block;
+  text-align: center;
+}
+
+.h-content img {
+  height: 600px;
+  width: 50%;
+  border-radius: 20%;
+}
+
+.m-content {
+  padding: 50px;
+  text-align: justify;
+}
+
+.footie {
+  text-align: center;
+  font-size: larger;
+  font-family: sans-serif, Impact, Haettenschweiler, "Arial Narrow Bold";
+
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+.footie a:hover {
+  color: red;
+}
